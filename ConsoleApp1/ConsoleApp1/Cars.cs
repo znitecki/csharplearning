@@ -8,7 +8,7 @@ namespace ConsoleApp1.Types
 {
     class Car
     {
-
+        // https://stackify.com/learn-c-sharp-tutorials/
         public Car(string model, string color, int productionYear)
         {
             Model = model;
